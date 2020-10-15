@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://techtales.herokuapp.com",
+    "contentApiKey": "53be5e465a08fa1f4d033ab158"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://techtales.herokuapp.com",
+    "contentApiKey": "53be5e465a08fa1f4d033ab158"
   }
 }
